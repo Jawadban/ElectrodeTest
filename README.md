@@ -1,7 +1,7 @@
 # electrodeTest 
 > 
 
-# Just testing Electrode...
+# Just testing Electrode the new framework by WM...
 
 ## Installation
 
