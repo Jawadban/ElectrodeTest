@@ -1,4 +1,4 @@
-# electrodeTest [![NPM version][npm-image]][none] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
+# electrodeTest [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url] [![Dependency Status][daviddm-image]][daviddm-url]
 > 
 
 # Just testing Electrode...
